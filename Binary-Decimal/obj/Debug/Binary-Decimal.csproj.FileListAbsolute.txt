@@ -1,0 +1,14 @@
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Binary-Decimal\Binary-Decimal\obj\Debug\Binary-Decimal.csprojAssemblyReference.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Binary-Decimal\Binary-Decimal\obj\Debug\Binary-Decimal.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Binary-Decimal\Binary-Decimal\bin\Debug\Binary-Decimal.exe.config
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Binary-Decimal\Binary-Decimal\bin\Debug\Binary-Decimal.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Binary-Decimal\Binary-Decimal\bin\Debug\Binary-Decimal.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Binary-Decimal\Binary-Decimal\obj\Debug\Binary-Decimal.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Binary-Decimal\Binary-Decimal\obj\Debug\Binary-Decimal.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Decimal_To_Binary\Binary-Decimal\bin\Debug\Binary-Decimal.exe.config
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Decimal_To_Binary\Binary-Decimal\bin\Debug\Binary-Decimal.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Decimal_To_Binary\Binary-Decimal\bin\Debug\Binary-Decimal.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Decimal_To_Binary\Binary-Decimal\obj\Debug\Binary-Decimal.csprojAssemblyReference.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Decimal_To_Binary\Binary-Decimal\obj\Debug\Binary-Decimal.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Decimal_To_Binary\Binary-Decimal\obj\Debug\Binary-Decimal.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Decimal_To_Binary\Binary-Decimal\obj\Debug\Binary-Decimal.pdb
